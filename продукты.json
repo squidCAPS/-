@@ -1,0 +1,37 @@
+[{
+        "id": 1,
+        "name": "Aqua Minirale",
+        "price": 100,
+        "stock": 500
+    },
+    {
+        "id": 2,
+        "name": "Milka",
+        "price": 150,
+        "stock": 250
+    },
+    {
+        "id": 3,
+        "name": "Dirol",
+        "price": 50,
+        "stock": 100
+    },
+    {
+        "id": 4,
+        "name": "Lays",
+        "price": 80,
+        "stock": 300
+    },
+    {
+        "id": 5,
+        "name": "Adidas T'Shirt",
+        "price": 500,
+        "stock": 100
+    },
+    {
+        "id": 6,
+        "name": "Love Is",
+        "price": 20,
+        "stock": 1000
+    }
+]
